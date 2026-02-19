@@ -1,6 +1,6 @@
 # Coresets for Multivariate Conditional Transformation Models
 
-This repository contains the official implementation of our NeurIPS submission "Coresets for Multivariate Conditional Transformation Models". The code is organized into two main components: simulation studies and real-world applications with high-dimensional datasets.
+This repository contains the official implementation of our AISTATS 2026 Paper "Scalable Learning of Multivariate Distributions via Coresets". The code is organized into two main components: simulation studies and real-world applications with high-dimensional datasets.
 
 ## Overview
 
