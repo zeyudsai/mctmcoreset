@@ -349,6 +349,13 @@ This script fetches historical stock data, computes log-returns, cleans the data
 
 If you find our code or paper useful for your research, please consider citing:
 
+@inproceedings{ding2026scalable,
+  title     = {Scalable Learning of Multivariate Distributions via Coresets},
+  author    = {Ding, Zeyu and Ickstadt, Katja and Klein, Nadja and Munteanu, Alexander and Omlor, Simon},
+  booktitle = {International Conference on Artificial Intelligence and Statistics (AISTATS)},
+  year      = {2026}
+}
+
 
 ## License
 
